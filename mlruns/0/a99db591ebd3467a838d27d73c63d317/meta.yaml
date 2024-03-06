@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/programs/wine%20quality%20prediction/wine%20quality/mlruns/0/a99db591ebd3467a838d27d73c63d317/artifacts
+end_time: 1709752555197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99db591ebd3467a838d27d73c63d317
+run_name: stylish-snake-408
+run_uuid: a99db591ebd3467a838d27d73c63d317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709752549752
+status: 3
+tags: []
+user_id: rajaw

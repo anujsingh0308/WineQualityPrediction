@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/programs/wine%20quality%20prediction/wine%20quality/mlruns/0/b65961a7790f4cddaa85e712abe72bc7/artifacts
+end_time: 1709752700360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b65961a7790f4cddaa85e712abe72bc7
+run_name: painted-bug-392
+run_uuid: b65961a7790f4cddaa85e712abe72bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709752696289
+status: 3
+tags: []
+user_id: rajaw

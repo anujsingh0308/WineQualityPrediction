@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/programs/wine%20quality%20prediction/wine%20quality/mlruns/0/40d7afc06888488db5e04a2289c61c67/artifacts
+end_time: 1709752657958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40d7afc06888488db5e04a2289c61c67
+run_name: able-penguin-121
+run_uuid: 40d7afc06888488db5e04a2289c61c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709752653820
+status: 3
+tags: []
+user_id: rajaw
