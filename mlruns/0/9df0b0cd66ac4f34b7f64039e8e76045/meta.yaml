@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/programs/wine%20quality%20prediction/wine%20quality/mlruns/0/9df0b0cd66ac4f34b7f64039e8e76045/artifacts
+end_time: 1715539222043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df0b0cd66ac4f34b7f64039e8e76045
+run_name: bald-mink-708
+run_uuid: 9df0b0cd66ac4f34b7f64039e8e76045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715539217247
+status: 3
+tags: []
+user_id: rajaw
